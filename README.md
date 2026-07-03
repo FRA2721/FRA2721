@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Startup Founder & Tech Innovator** | **Full Stack Web Developer** | **Cybersecurity Expert**
+**Startup Founder & Tech Innovator** | **Full Stack Web Developer** 
 
 *Building the next generation of digital solutions through innovation, technology, and entrepreneurial vision*
 

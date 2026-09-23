@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2" width="1200" height="2" fill="none" role="presentation">
+<style>
+.r{stroke:#2A2F36;stroke-width:1}
+.glow{stroke:#6E7681;stroke-width:1;stroke-dasharray:150 1050;animation:travel 24s linear 2.5s infinite;opacity:.4}
+@keyframes travel{from{stroke-dashoffset:0}to{stroke-dashoffset:-1200}}
+</style>
+<line class="r" x1="0" y1="1" x2="1200" y2="1"/>
+<line class="glow" x1="0" y1="1" x2="1200" y2="1"/>
+</svg>

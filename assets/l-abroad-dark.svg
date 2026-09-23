@@ -2,7 +2,13 @@
 <style>
 .l{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:21px;letter-spacing:.3px;fill:#F0F0F0}
 .r{stroke:#2A2F36;stroke-width:1}
+
+.glow{stroke:#6E7681;stroke-width:1;stroke-dasharray:150 1050;animation-name:travel;animation-timing-function:linear;animation-iteration-count:infinite;opacity:.55}
+@keyframes travel{from{stroke-dashoffset:0}to{stroke-dashoffset:-1200}}
+.breathe{animation:breathe 9s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.78}50%{opacity:1}}
+
 </style>
 <text class="l" x="0" y="22">Abroad</text>
-<line class="r" x1="0" y1="40" x2="1200" y2="40"/>
+<line class="r" x1="0" y1="40" x2="1200" y2="40"/><line class="glow" style="animation-duration:17s;animation-delay:0s" x1="0" y1="40" x2="1200" y2="40"/>
 </svg>

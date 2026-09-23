@@ -1,25 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620" fill="none" role="img" aria-label="Francesco Cimino, full stack AI web developer">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".45" stop-color="#fff" stop-opacity="1"/>
+<stop offset=".55" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<mask id="sweep"><rect class="sw" x="-900" y="150" width="900" height="140" fill="url(#g)"/></mask>
+</defs>
 <style>
 .tiny{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:11px;letter-spacing:2.6px;fill:#6E7681}
-.big{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:200;font-size:122px;letter-spacing:-3px;fill:#F0F0F0}
+.big{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:200;font-size:92px;letter-spacing:1.5px;fill:#F0F0F0}
+.bigh{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:200;font-size:92px;letter-spacing:1.5px;fill:#FFFFFF}
 .sm{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:500;font-size:17px;letter-spacing:.2px;fill:#F0F0F0}
 .mi{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:10.5px;letter-spacing:.9px;fill:#6E7681}
 .rt{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:13.5px;letter-spacing:.2px;fill:#9198A1}
 .nv{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:19px;letter-spacing:.4px;fill:#F0F0F0}
 .ar{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:15px;fill:#9198A1}
 .r{stroke:#2A2F36;stroke-width:1}
+
+.glow{stroke:#6E7681;stroke-width:1;stroke-dasharray:150 1050;animation-name:travel;animation-timing-function:linear;animation-iteration-count:infinite;opacity:.55}
+@keyframes travel{from{stroke-dashoffset:0}to{stroke-dashoffset:-1200}}
+.breathe{animation:breathe 9s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.78}50%{opacity:1}}
+
+.sw{animation:sweep 11s cubic-bezier(.5,0,.5,1) infinite}
+@keyframes sweep{0%{transform:translateX(0)}35%{transform:translateX(2200px)}100%{transform:translateX(2200px)}}
+.bob{animation:bob 6s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(2.5px)}}
 </style>
+<g class="breathe">
 <text class="tiny" x="0" y="26">FRANCESCO/</text>
 <text class="tiny" x="600" y="26" text-anchor="middle">AI &#183; WEB &#183; STARTUPS</text>
 <text class="tiny" x="1200" y="26" text-anchor="end">COSENZA, IT</text>
-<line class="r" x1="0" y1="44" x2="1200" y2="44"/>
+</g>
+<line class="r" x1="0" y1="44" x2="1200" y2="44"/><line class="glow" style="animation-duration:16s;animation-delay:0s" x1="0" y1="44" x2="1200" y2="44"/>
 
-<text class="big" x="0" y="250">francesco cimino</text>
-<line class="r" x1="0" y1="276" x2="1200" y2="276"/>
+<text class="big" x="0" y="230">FRANCESCO CIMINO</text>
+<g mask="url(#sweep)"><text class="bigh" x="0" y="230">FRANCESCO CIMINO</text></g>
+<line class="r" x1="0" y1="276" x2="1200" y2="276"/><line class="glow" style="animation-duration:13s;animation-delay:1.5s" x1="0" y1="276" x2="1200" y2="276"/>
 <text class="sm" x="0" y="306">Full stack AI web developer.</text>
-<g><text class="mi" x="0" y="336">Independent. I work with founders, authors and artists.</text><text class="mi" x="0" y="354">Strategy, design, code and delivery are one single job.</text></g>
+<g class="breathe" style="animation-delay:2s"><text class="mi" x="0" y="336">Independent. I work with founders, authors and artists.</text><text class="mi" x="0" y="354">Strategy, design, code and delivery are one single job.</text></g>
 <g><text class="rt" x="1200" y="404" text-anchor="end">I grew up in a small town in Calabria</text><text class="rt" x="1200" y="427" text-anchor="end">and I kept leaving it to learn where</text><text class="rt" x="1200" y="450" text-anchor="end">things actually happen. I build web</text><text class="rt" x="1200" y="473" text-anchor="end">products with artificial intelligence</text><text class="rt" x="1200" y="496" text-anchor="end">inside them, and I work best next to</text><text class="rt" x="1200" y="519" text-anchor="end">people who already know where they</text><text class="rt" x="1200" y="542" text-anchor="end">are going.</text></g>
 
-<line class="r" x1="0" y1="546" x2="1200" y2="546"/>
-<g><text class="ar" x="0" y="590">&#8600;</text><text class="nv" x="26" y="590">Work</text><text class="ar" x="300" y="590">&#8600;</text><text class="nv" x="326" y="590">Abroad</text><text class="ar" x="600" y="590">&#8600;</text><text class="nv" x="626" y="590">Contact</text></g>
+<line class="r" x1="0" y1="546" x2="1200" y2="546"/><line class="glow" style="animation-duration:19s;animation-delay:3s" x1="0" y1="546" x2="1200" y2="546"/>
+<g><g class="bob" style="animation-delay:0.0s"><text class="ar" x="0" y="590">&#8600;</text><text class="nv" x="26" y="590">Work</text></g><g class="bob" style="animation-delay:0.6s"><text class="ar" x="300" y="590">&#8600;</text><text class="nv" x="326" y="590">Abroad</text></g><g class="bob" style="animation-delay:1.2s"><text class="ar" x="600" y="590">&#8600;</text><text class="nv" x="626" y="590">Contact</text></g></g>
 </svg>

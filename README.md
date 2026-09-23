@@ -26,51 +26,41 @@ Before I write code I look at the problem from every side I can find.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/s01-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/s01-light.svg">
-  <img alt="01 WORK" src="assets/s01-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s-work-light.svg">
+  <img alt="Work" src="assets/s-work-dark.svg" width="100%">
 </picture>
 
-| | |
-|---|---|
-| **Personal site for a bestselling author** | Bilingual editorial site on technology and human awareness. Scrolling carries the story. One portrait, one accent, nothing else. |
-| **Book microsite** | Companion site for an essay on technological humanism. Tone and palette taken from the cover, then set in motion. |
-| **Artist site for an international DJ** | One continuous bilingual page. Real time 3D, custom typography, press kit behind a gate. Built from nothing, no template. |
-| **Ongoing** | Interfaces, AI assisted workflows, internal tools. |
+- **Personal site for a bestselling author.**
+  She writes and speaks about technology and human awareness, so the site had to sound like her and not like a template. It is bilingual and live in production: home, biography, work, the book, contacts. The work section pulls six separate activities under a single question about who decides and by which criteria, which is what holds the whole page together. I kept the design quiet on purpose. One portrait, very large type, a single accent colour, and scrolling used to carry the story instead of decorating it. I did research, structure, copy layout, design and build.
 
-<sub>Client work under NDA. I can walk you through any of it.</sub>
+- **Microsite for a book on technological humanism.**
+  The book collects thirty principles that put ancient thinking and new tools in the same room. I took the tone and the palette straight from the cover and set them in motion, so the site feels like the object it presents. Every section is one idea at a time, with enough space around it that the reader slows down. Bilingual, built to grow with talks and events as they are announced.
+
+- **Artist site for an international DJ and producer.**
+  Not a laid out site but one continuous experience. A single bilingual page where scrolling moves the narrative forward and every visual decision comes from the artist's own material rather than from a theme. Real time 3D running in the browser, typography drawn for this project alone, and a press kit delivered behind a gate so the material stays under control. Designed and built end to end, from the first idea to the live deployment.
+
+- **Ongoing.**
+  Interfaces, workflows assisted by language models, small internal tools that remove repetitive work. Some of it is client work, some of it exists only to answer a question I had.
+
+<sub>Client work is under NDA. I can walk you through any of it in a call.</sub>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/s02-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/s02-light.svg">
-  <img alt="02 ABROAD" src="assets/s02-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s-abroad-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s-abroad-light.svg">
+  <img alt="Abroad" src="assets/s-abroad-dark.svg" width="100%">
 </picture>
 
-| | |
-|---|---|
-| **Silicon Valley** | A week inside Google, Apple, Tesla and Pure Storage, talking to founders and managers. I paid for the trip with a crowdfunding campaign I ran myself. |
-| **Oro di Calabria** | Venture building programme under the patronage of the European Commission. Twenty four people selected out of eighty. From raw idea to pitch in front of investors and bankers in four days. |
-| **New York** | Four weeks of English and group work. Voted best student of the class. |
-| **Oxford, Toronto, Barcelona** | Three more stays, three more languages in the room, one lesson repeated every time: you learn faster when nobody speaks your language. |
+- **Silicon Valley.**
+  One week inside the companies I had only read about, Google, Apple, Tesla and Pure Storage, in meetings with founders, managers and investors rather than on a guided tour. I went to see how decisions are taken when the stakes are real, how a product gets killed, how a team is rebuilt around a new direction. I could not afford the trip, so I ran a public crowdfunding campaign, explained the project, and raised the money myself. That part taught me as much as the week did.
 
-<br>
+- **Oro di Calabria.**
+  A venture building programme under the patronage of the European Commission. Twenty four people selected out of eighty, after an application, a written idea and an interview in front of the selection board. Four residential days in a team of strangers, from a raw idea to a pitch in front of investors, bankers and academics, with expert critique every single evening. I learned to frame the real problem before proposing anything, to test an assumption cheaply instead of falling in love with it, and to hold a room while under pressure.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/s03-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/s03-light.svg">
-  <img alt="03 CERTIFIED" src="assets/s03-dark.svg" width="100%">
-</picture>
+- **New York.**
+  Four weeks of English and daily group work in a class where nobody shared my language. I ended up leading the study group and was voted best student of the class. It is the first place where I understood that speaking well matters as much as knowing the answer.
 
-`Google AI Professional` &nbsp;·&nbsp; `IBM Large Language Models` &nbsp;·&nbsp; `Anthropic Claude Code Academy` &nbsp;·&nbsp; `Cisco Cybersecurity`
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/s04-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/s04-light.svg">
-  <img alt="04 ELSEWHERE" src="assets/s04-dark.svg" width="100%">
-</picture>
-
-[LinkedIn](https://www.linkedin.com/in/francescocimino/) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/francescocimino_ig/)
+- **Oxford, Toronto, Barcelona.**
+  Three more stays, four weeks each in England and Canada and two in Spain, studying the language in the morning and using it badly in the afternoon until it stopped being badly. Different countries, same lesson repeated: you learn fastest when you are slightly out of your depth and nobody translates for you.

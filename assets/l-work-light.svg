@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 42" width="1200" height="42" fill="none" role="img" aria-label="Work">
+<style>
+.l{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:21px;letter-spacing:.3px;fill:#111111}
+.r{stroke:#DADADA;stroke-width:1}
+</style>
+<text class="l" x="0" y="22">Work</text>
+<line class="r" x1="0" y1="40" x2="1200" y2="40"/>
+</svg>

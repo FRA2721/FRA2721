@@ -62,5 +62,11 @@ Before I write code I look at the problem from every side I can find.
 - **New York.**
   Four weeks of English and daily group work in a class where nobody shared my language. I ended up leading the study group and was voted best student of the class. It is the first place where I understood that speaking well matters as much as knowing the answer.
 
-- **Oxford, Toronto, Barcelona.**
-  Three more stays, four weeks each in England and Canada and two in Spain, studying the language in the morning and using it badly in the afternoon until it stopped being badly. Different countries, same lesson repeated: you learn fastest when you are slightly out of your depth and nobody translates for you.
+- **Oxford.**
+  Four weeks in England, in a classroom in the morning and in the city for the rest of the day. I came out with a B2 certification, but the part that stayed with me is different: in Oxford nobody is impressed by ambition, they are impressed by precision. I started paying attention to how people build an argument before they raise their voice.
+
+- **Toronto.**
+  Four weeks in Canada and a B1 certification, my first long stay far from home. Different accents in the same room every single day, from people who had crossed an ocean for the same reason I had. It is where the language stopped being a school subject and became the thing I needed in order to be understood.
+
+- **Barcelona.**
+  Two weeks of Spanish from zero to A1. Short, intense, and useful in a way I did not expect: starting a language again from nothing, at an age when you are supposed to already know things, teaches you how to be a beginner without being embarrassed about it. I use that more often than the Spanish.

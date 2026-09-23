@@ -9,11 +9,20 @@
 Technology is never neutral: it carries the intentions of whoever builds it.
 I work where that responsibility is still open — where a product is being decided, not only shipped.
 
-<img alt="Open to collaborations" src="assets/available.svg" height="18">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/available-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/available-light.svg">
+  <img alt="Open to collaborations" src="assets/available-dark.svg" height="18">
+</picture>
 
 <br>
+<br>
 
-### `01` &nbsp; NOW
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s01-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s01-light.svg">
+  <img alt="01 — NOW" src="assets/s01-dark.svg" width="100%">
+</picture>
 
 Studying **Computer & Automation Engineering — AI & Data Science**, and building in parallel.
 Designing and developing web products end to end: strategy, interface, code, delivery.
@@ -21,7 +30,11 @@ Currently focused on how generative AI changes the way a product is conceived, n
 
 <br>
 
-### `02` &nbsp; WORK
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s02-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s02-light.svg">
+  <img alt="02 — WORK" src="assets/s02-dark.svg" width="100%">
+</picture>
 
 | | |
 |---|---|
@@ -34,7 +47,11 @@ Currently focused on how generative AI changes the way a product is conceived, n
 
 <br>
 
-### `03` &nbsp; FOUNDATIONS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s03-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s03-light.svg">
+  <img alt="03 — FOUNDATIONS" src="assets/s03-dark.svg" width="100%">
+</picture>
 
 | | |
 |---|---|
@@ -46,7 +63,11 @@ Currently focused on how generative AI changes the way a product is conceived, n
 
 <br>
 
-### `04` &nbsp; STACK
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s04-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s04-light.svg">
+  <img alt="04 — STACK" src="assets/s04-dark.svg" width="100%">
+</picture>
 
 ```
 Languages    JavaScript · PHP · Python · SQL · HTML · CSS
@@ -58,7 +79,11 @@ Practice     product strategy · UX research · Agile · Scrum · Jira · Git
 
 <br>
 
-### `05` &nbsp; CERTIFIED
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s05-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s05-light.svg">
+  <img alt="05 — CERTIFIED" src="assets/s05-dark.svg" width="100%">
+</picture>
 
 `Google AI Professional` &nbsp;·&nbsp; `Google AI Essentials` &nbsp;·&nbsp; `Google Agile Project Management`
 
@@ -70,7 +95,11 @@ Practice     product strategy · UX research · Agile · Scrum · Jira · Git
 
 <br>
 
-### `06` &nbsp; ELSEWHERE
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/s06-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/s06-light.svg">
+  <img alt="06 — ELSEWHERE" src="assets/s06-dark.svg" width="100%">
+</picture>
 
 [LinkedIn](https://www.linkedin.com/in/francescocimino/) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/francescocimino_ig/)
 

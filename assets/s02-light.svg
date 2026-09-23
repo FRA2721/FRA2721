@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="02 WORK">
+<style>
+@font-face{font-family:'JostS';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAO4AA4AAAAABsgAAANgAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSABcEQgKhASDRAE2AiQDHAsQAAQgBYNiByAMBxuEBQAuCmxjavANkccwOuFomBTrl3YQz9v9O+fuftOhNgArqE2ZFnAlPETAsG2oz7O4Rj+vyxW5I7P/AWAH8nx1e39vUTMsoZsJPPMswIADDPSykLPbqulsEqpF2BSJMSik3NCPUhV9/Dv6eLqQGMUgFIMq1bYmZBcWJEo6bLNxkuw3Nk8va9HVEOAMABQhbAm9ImUDNlCX6gegafYiB2K8mdZiqDET4STp+jr138qI/gwyB4AA5FVHgXCKEPYU8KZANHWOHTdTAGMOnyjBCJ03DajYyQZQD6ARKiEACAAFNOBNI8Cbrh7AlT3FVrpMTTQmb4Hch/+bmey3xy7bkrOR3OVzY+9kB8AVOIGNwEsAQAcAiqIRirStu7eu+zp6u4cN1Z1sXEaNdhozduAyq9VptdnMUpPJcZXF0rvUbDY7rbZarbLMYrE4rjKZTAP7Ow0YAOoWc6e4kxFHZPYLdMCUIYOGOBpDB09w7Ke6/6J7L7jd3Xp15ji5iHPfiZTvmsdweoljnD22jaU7T8a3HTnac9QruaFomlEyI7WOf3Bb9YI5dc0ts+tiauNAvKV5Dir7tzZnrxg6bFluObw012CAMXs5AAkty8GW5UK/9/2Mn/1ujzjaczSmcX1KddiEpKQJUf+U9U3rq8dnlg4prygdPIZWr+f4wcsx52MOqaGe966GrbAhQ7n2Er8xKY3l8fEJPxzUV5ISfyTEl8dXdhcbFZtmDmpp2RE3G3wlvP/2snuPVmYZueEBNYO6Ygvrx5TmTG3qyYlovv12wn2igvyCFeMAYDEEaPeZ5JKsG0Pdir/aT3sBcH1ZxDwAPLuZ3h98PZO6D9hSAAR/clj7FEY2HRDLeLt8KbXRPnyJr3Ta1ZHqx3+iAG8C7ETTAAib5WQVGmkHYDNAEfY2K4qr3Yom2UlF5++NYiMwumzLP6FmAs7JbbLrFZHgmq5ysxAc04qi1dkNcqnMBMqUvsfDdWeNMdaoNdbj7QbOCrEwF68wx/FMW6PRTPHGTZp0RrI0acbKVZvNAqyRWjWOoRGJjSaDuSPloCpvZJTvOjHu6SGCHW6KpWYV30CSKk+GdEUME1KRug0z3DVLMOmKT9At12rAvtV1y3rib0bqTr6xXMg84dd8DQwA/yvTkntQ/ru+FgAAAA==) format('woff2');}
+.n{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:15px;letter-spacing:2px;fill:#AFB8C1}
+.l{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:21px;letter-spacing:7px;fill:#1F2328}
+.r{stroke:#D0D7DE;stroke-width:1}
+</style>
+<text class="n" x="0" y="30">02</text>
+<text class="l" x="46" y="30">WORK</text>
+<line class="r" x1="0" y1="45" x2="1200" y2="45"/>
+</svg>

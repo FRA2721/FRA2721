@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="05 CERTIFIED">
+<style>
+@font-face{font-family:'JostS';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAQMAA4AAAAAB5QAAAO0AAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSABcEQgKhTyERgE2AiQDKAsWAAQgBYNiByAMBxsSBkguBuwmebjlzNmNTdgUbxW2wwbj4fk1e899maXJJ0CHzBLISGAsULagW1tV2/2f/b33fbHJHoHK06G8JvadvlAZ4cGbO5bQtPMtjUadx1v/U6BUQxVy2ut/AGzYR2sroxki1awUEjEO+IC3W8SbSsdbJJLc37zEb98Itb5tkv5crcgp4ZLO8WMCtQBJCFVCliRxURnpdFoAmKx7iWWsaGTRDP/exj0agFf6Kcn6/H+KrE/sBwTEt/QM7aCEUCmhERQ6Qe1f3zGCYOOexh6kFUSmETRS4JEN0jMUhBR8gAAJBTSCFmgEYwKgjkpJuX7sEqhQXCMeO3pj96sXnrnnbnFvGEnvr4uQg0ZAA+B7ohsAWQIm5BeEQoXokDXLtoMYlY3qKaoXH6qLZ377rXu8KOWnf904TvwGrlT18Lj066/ZpdLyrIitbajqOIkkzyECNo8Ti86I1EYoWKGhsIrtqEetRKsXkhflWJIYe+3Eq8Z8PE99cbCQK+116Gr7d8e2fJt5pVJpnpHWX5ttux7xrtN8alAqnt5/LKHSX2X85xZzDiMeVn1yaVFqajQetxSxo4a5gZN2eW56zlbfYF+eliegAd3pXJ862TFHAOW2xOnFqWnwnl7NvZq5bNsqr9zs7BTQg9sOSg+8K2XxmLzR788hB7R47Rz4VhY08iSnI7cg18CMnADHNrsL3B3GAqOlP9oQ+Lbg3wUbvxf8tcoYIJ+0rh8j7NZqu9Vg/frk9ViXJVAXCgdq9eGxdajafK+ntOeo4BqOLPUz2/SZkEql/qpgtfkt6qt7N1eXV5f4OsN7IzW5uQK6vRN/LRT/Hje4s87r4+SsGB5VTp5UPeLq6hLrE0pV0mSSJeNKiyIuiv2P79ceidQpQ9ZyftQrrwSA468ECvff5m02jNXTh/xXWUA/wi8n2x8EwD9/9FsIQs3pRPqAcgkE/1Lf6bpcnha+VF8eb0Rtt3TJjNRFgUfwI60f/pSGFeHbDyKAINcFBo51DRSdVhAZEbgCikKlK6Kkjjuigl7uRJlmXkVlWkQmLNcs2qggoFY42vC5B+GFWJHn8ZEij2u2eG1atcaBsDAJESlxaWUiY7aHSYENE51S7pGwU2Pjk81ecFU61h0WO4eRUbuWet6J0zSbjXSdJoXS7rA5jwgllxtoKnkt4NLP7hLz94dKtdOA2dgMnMxMvDodJF66i9qaQ+qIL1XeAbYMTo35uPUdLZQpnxlSQVYkWrnwDpE1f4aBmhpgy38UNS47BwAAAA==) format('woff2');}
+.n{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:15px;letter-spacing:2px;fill:#484F58}
+.l{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:21px;letter-spacing:7px;fill:#E6EDF3}
+.r{stroke:#30363D;stroke-width:1}
+</style>
+<text class="n" x="0" y="30">05</text>
+<text class="l" x="46" y="30">CERTIFIED</text>
+<line class="r" x1="0" y1="45" x2="1200" y2="45"/>
+</svg>

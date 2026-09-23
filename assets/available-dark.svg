@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 18" width="320" height="18" fill="none" role="img" aria-label="Open to collaborations">
+<style>
+@font-face{font-family:'JostA';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAATAAA4AAAAACJQAAARpAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSABkEQgKhxyFdAE2AiQDOAseAAQgBYNiByAMBxvYBlGUL0oe6KsC25gW9EVsGQmRksig9nHU5b3caFE2+U1BPzaw9g9u4/n/34+2z/1vRB2T1a16IkKeRbXQNFPSRDxaskbohEYbGVrn/aC0ECElAPWtgTUtMrWFsjqf3o58/0juHsUKrji97KTLpKIb4D8cdv8LdBfWxRFwSKEHtDEEnSf//3+v6n/Z+AO8hkgoiPe/7HmzcW4cG4MRygnQLC5e43hBe2rVAmrfxKHPthfwTxMMA0rEiGilkHbM1JsKAXBr3ycPkYmQ3TQ+Z/9JBOAr5CybznED0C6kGEAgf2oZrEvH2Y8ppntm+8HPk2kdAvtPEB6SAmmmGVFhJe3gu7sTFel0SaU6bN35PszkPmCckxHrGlp6hqaWJyTCGjs2/91uw7qVllpsAXHeI3ICL2IULAOmgUzffQGgUYuk0ZUU20mpcWhvMp0FFja+aSZ4JpPIwCxbMHcQV3CoeCBnWgpnsGQ4Z9Pdp/b2BjmYSI5moH7gE6hZH4bZcdNLhvcD4bUG3JHf02T1CDRenyzccG4JJf0NSMCzOMRNuJgfwiALY+JkjqZCLGYqomOFzDEi4OF9MNuSpmGplyMAqI05K7YcVsNDOcPCdK7I3OiWCg4YicTrwfq1e3j7jvBqrBzEQvBo5Fa4yZ87M8408bvXI04mTmZOwtV5YdLeJl2/i8XzE99HU6+urxyd/DUXnbmKbYSiIa1vZegRoWw7vbxKsVo2YbSeIm2nFShsWK5brpBT6+vSTKdktVNVoo1pEwP5v8WKuaiNnLuUFdK0gZ+4o05Vzmyy39O1yig6xrjeazzAF+iAq6csMZtz04JFwIC2HHIpR3WsT6zUc2WKp4+njuhy4APeS8PJlKlgBmKX2CX6OrA9CEZOqPJiZw/PIufJ6U0DoKdHMQyGenkY1UfDtSaqQI0JAgJIjOoAQO2q5T11QQ8re7dRSzt7uwB7qs2HzLMGNlFTwCZyh+UEjkPeh6T+DHmKs2t3a9OmZNM1S7ipzX37b1KvHLUzXXxivEuZa3hIbim46ujJU3bfhW0njXNpBRNz9TblwEWdyfJmQMTcMlzH0NdIT8m+709XpZNnLplytDbTsFf0hv3xdEYgf/dZAXDtEATdxx8Duw5vonmt/rMxMr4F/tbKHwH495AKhfnkvavXoFeB8PcHulmtRM8WxPlWo/kCOQfUW8ylY1oj1ErF1J9PNvl0rLjficgYJUnpcd8/EsgFDsGoq0wg8Lohb8AojR0cALQi+h0oyqh3is45H0Uz76fosRgmea/5yBgQGI7JEmucIJGSCx0eJs0RLzRIZEcqBoWmc8lIPeiylBCi3CfRdDil0mUWAeOxZvt10jJUaSgNoVEn91iRvFIUxgLsiqgEbDgnSGKIcETUlGobzclYOHkZieORTPmTKfvD8PI5AmWLh1BlJRSlpVQxdBFVy3XxwSY35kqtEbnfxZCIXDGni5TbIOrL2XucCJYZmHnpnEj/Y0bgpI+Bs/UL+b8xtQAAAA==) format('woff2');}
+.t{font-family:'JostA','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:13px;letter-spacing:3.4px;fill:#8B949E}
+.core{fill:#3FB950}
+.halo{fill:#3FB950;transform-origin:5px 9px;animation:halo 2.8s cubic-bezier(.4,0,.2,1) infinite}
+@keyframes halo{0%{transform:scale(1);opacity:.45}70%{transform:scale(3.4);opacity:0}100%{transform:scale(3.4);opacity:0}}
+</style>
+<circle class="halo" cx="5" cy="9" r="3"/>
+<circle class="core" cx="5" cy="9" r="3"/>
+<text class="t" x="20" y="14">OPEN TO COLLABORATIONS</text>
+</svg>

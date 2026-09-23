@@ -5,6 +5,12 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tesseract-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/tesseract-light.svg">
+  <img alt="A tesseract rotating in four dimensions, projected into two" src="assets/tesseract-dark.svg" width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/available-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/available-light.svg">
   <img alt="Open to collaborations" src="assets/available-dark.svg" height="16">

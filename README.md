@@ -1,221 +1,79 @@
-# 🚀 Francesco Cimino - Tech Entrepreneur & Startup Builder
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Francesco Cimino — Full-Stack AI Web Developer, Startup Builder" src="assets/header-dark.svg" width="100%">
+</picture>
 
-<div align="center">
+<br>
 
-**Startup Founder & Tech Innovator** | **Full Stack Web Developer** 
+Technology is never neutral: it carries the intentions of whoever builds it.
+I work where that responsibility is still open — where a product is being decided, not only shipped.
 
-*Building the next generation of digital solutions through innovation, technology, and entrepreneurial vision*
+<img alt="Open to collaborations" src="assets/available.svg" height="18">
 
-📍 San Giovanni in Fiore (CS), Calabria, Italy | 🌍 Open to Remote Opportunities
+<br>
 
-**"To succeed in something, go where it's being done."**
+### `01` &nbsp; NOW
 
-</div>
+Studying **Computer & Automation Engineering — AI & Data Science**, and building in parallel.
+Designing and developing web products end to end: strategy, interface, code, delivery.
+Currently focused on how generative AI changes the way a product is conceived, not only written.
 
----
+<br>
 
-## 🎯 Startup Philosophy & Vision
+### `02` &nbsp; WORK
 
-I'm a **tech entrepreneur** with a passion for identifying market opportunities and building scalable solutions. My approach combines:
+| | |
+|---|---|
+| **Personal site for a bestselling author** | Bilingual editorial site on technological humanism. Scroll as narrative device, single accent, one portrait. |
+| **Book microsite** | Companion site for a non-fiction title. Tone and palette derived from the cover, set in motion. |
+| **Artist site for an international DJ** | One continuous bilingual page. Real-time 3D, bespoke typography, gated press kit. Built from scratch, no theme. |
+| **Ongoing** | Interfaces, AI-assisted workflows, internal tools. |
 
-- 🔍 **Market Intelligence** - Identifying gaps and opportunities in emerging markets
-- 💡 **Innovative Problem-Solving** - Creating technology solutions that matter
-- 🛠️ **Full-Stack Execution** - From concept to MVP to launch
-- 📈 **Growth Mindset** - Learning from industry leaders and accelerating innovation
-- 🌐 **Business Development** - Building products people love and investors fund
+<sub>Client work under NDA — walkthroughs available on request.</sub>
 
-**My Mission:** To create technology products that solve real problems and generate sustainable business value.
+<br>
 
----
+### `03` &nbsp; FOUNDATIONS
 
-## 🏢 Startup & Entrepreneurship Experience
+| | |
+|---|---|
+| **Silicon Valley** | One week inside Google, Apple, Tesla, Stanford, UC Berkeley. Self-funded through a public crowdfunding campaign. |
+| **Oro di Calabria** | Venture building programme under the patronage of the European Commission. Selected among 24 of 80 applicants. Idea to investor pitch in four days. |
+| **Boolean** | Full-stack development. Led a team of six through delivery. |
+| **AcademyRapido** | IT support and cyber security. Team lead, fifteen people. |
+| **Markets** | Eight years investing in crypto and digital assets. Risk, patience, decisions under uncertainty. |
 
-### **Silicon Valley Insider - Entrepreneurial Immersion**
-*Tech Innovation & Startup Ecosystem*
-- **Direct mentorship from industry titans**: Google, Apple, Slack, Pure Storage, Scribd, Stanford University, Berkeley University
-- Deep dives into **startup culture, scaling strategies, and product-market fit**
-- Learned from founders and executives how they:
-  - Identify scalable opportunities
-  - Build and pivot business models
-  - Manage growth and fundraising
-  - Navigate market competition
-- Participated in intensive innovation sessions and strategic planning meetings
-- **Key Takeaway**: Understanding how to translate technology into market opportunities
+<br>
 
-### **Full Stack Web Developer - Boolean**
-*Building MVP Products & Web Applications*
-- Developed production-ready full-stack applications (Frontend + Backend + Database)
-- **Skills applicable to startups**:
-  - Rapid prototyping and MVP development
-  - Responsive product design for market validation
-  - Database architecture for scalable systems
-  - API development for integration and partnerships
-- Built projects from concept to deployment
-- Optimized for performance and user experience
+### `04` &nbsp; STACK
 
-### **Investor & Business Development**
-*Financial Acumen & Strategic Planning*
-- **8+ years experience** in Bitcoin/Crypto markets - understanding emerging technologies as startup opportunities
-- Deep knowledge of S&P500, FOREX, and financial markets
-- Strategic investment analysis and decision-making
-- **Entrepreneurial Focus**:
-  - Identifying promising tech investments
-  - Understanding startup funding landscape
-  - Market trend analysis for product opportunities
-  - Risk assessment and growth projections
+```
+Languages    JavaScript · PHP · Python · SQL · HTML · CSS
+Frontend     Vue · responsive systems · accessibility · motion
+Backend      REST APIs · relational databases · authentication
+AI           LLM integration · prompt engineering · agentic workflows · evaluation
+Practice     product strategy · UX research · Agile · Scrum · Jira · Git
+```
 
-### **AcademyRapido - Cybersecurity Specialist**
-*Security Infrastructure for Startups*
-- Built expertise in network security and infrastructure management
-- **Startup Application**: Helping new ventures implement secure systems from day one
-- IT Project Management: Scaling infrastructure as companies grow
-- Security protocols essential for customer trust and compliance
+<br>
 
----
+### `05` &nbsp; CERTIFIED
 
-## 💼 Startup Toolkit: Technical Stack
+`Google AI Professional` &nbsp;·&nbsp; `Google AI Essentials` &nbsp;·&nbsp; `Google Agile Project Management`
 
-### **MVP & Product Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+`IBM — Large Language Models` &nbsp;·&nbsp; `IBM — Ethics for Generative AI`
 
-### **Backend & Scalable Systems**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6B6B?style=for-the-badge)
-![Database Design](https://img.shields.io/badge/Database_Architecture-003366?style=for-the-badge)
+`Cisco — Networking, IT Essentials, Cybersecurity` &nbsp;·&nbsp; `EC-Council`
 
-### **Startup Infrastructure**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+`Anthropic — Claude Code Academy` &nbsp;·&nbsp; `Boolean — Full-Stack Web Developer`
 
-### **Business & Finance**
-![Cryptocurrency](https://img.shields.io/badge/Crypto_&_Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Forex](https://img.shields.io/badge/Market_Analysis-1E90FF?style=for-the-badge)
-![Project Management](https://img.shields.io/badge/Product_Management-FF6B35?style=for-the-badge)
+<br>
 
-### **Security (For Enterprise Startups)**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC143C?style=for-the-badge)
-![Network Management](https://img.shields.io/badge/Infrastructure-0070C0?style=for-the-badge)
+### `06` &nbsp; ELSEWHERE
 
----
+[LinkedIn](https://www.linkedin.com/in/francescocimino/) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/francescocimino_ig/)
 
-## 💡 Startup Core Competencies
+<br>
 
-### **Product Development**
-- ✅ Full-stack MVP development (concept to launch)
-- ✅ Rapid prototyping and iteration
-- ✅ UI/UX design for market validation
-- ✅ Scalable architecture from day one
-
-### **Business Strategy**
-- ✅ Market opportunity identification
-- ✅ Competitive analysis and positioning
-- ✅ Business model design
-- ✅ Growth strategy and scaling
-
-### **Technical Execution**
-- ✅ End-to-end product development
-- ✅ Database architecture for growth
-- ✅ API development for partnerships
-- ✅ Infrastructure and security implementation
-
-### **Finance & Funding**
-- ✅ Financial planning and projections
-- ✅ Understanding startup funding (seed, Series A/B)
-- ✅ Investment analysis and pitch preparation
-- ✅ Revenue model design
-
----
-
-## 🌟 Why Work With Me on Your Startup?
-
-| Aspect | Value |
-|--------|-------|
-| **Speed to Market** | Full-stack development = faster MVP launch |
-| **Technical Credibility** | Deep tech + business background |
-| **Investor Ready** | Understand what VCs want to see |
-| **Market Intelligence** | Connected with tech leaders and trends |
-| **Scalable Foundation** | Build products ready to grow |
-| **Multi-Disciplinary** | Dev + Security + Business expertise |
-
----
-
-## 🎯 Current Focus Areas for Startup Opportunities
-
-### **Emerging Markets I'm Tracking**
-- 🤖 **AI-Powered Solutions** - Automation, machine learning applications
-- 🔐 **Cybersecurity SaaS** - Growing demand for security infrastructure
-- 🏥 **HealthTech** - Digital health platforms and telemedicine
-- 💰 **FinTech** - Payment solutions, crypto integration, blockchain
-- 🌐 **Web3 & Blockchain** - Decentralized applications and smart contracts
-- 📊 **Data Analytics** - Business intelligence and predictive analytics
-
----
-
-## 📊 GitHub - Startup Portfolio
-
-<div align="center">
-
-![Francesco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRA2721&theme=github_dark&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FRA2721&theme=github_dark&layout=compact)
-
-</div>
-
----
-
-## 🤝 Let's Build Something Together
-
-<div align="center">
-
-**Interested in collaboration? Let's discuss:**
-- 💼 Co-founding a startup
-- 🚀 Building your MVP
-- 🔌 Technical partnership opportunities
-- 📊 Startup consulting & strategy
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francescocimino)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescoinbusiness@gmail.com)
-
-</div>
-
----
-
-## 🔥 Startup Mindset
-
-> **"To succeed in something, go where it's being done."** - Francesco Cimino
-
-I didn't just learn about startups—I went to Silicon Valley and sat with the people building them. I didn't just learn web development—I built production applications. I didn't just study markets—I invested in them.
-
-**This is the startup mentality I bring to every project:**
-- 🎯 **Clarity of Vision** - Know exactly what problem you're solving
-- ⚡ **Speed of Execution** - Move fast, iterate, learn
-- 📈 **Obsession with Growth** - Every decision tied to KPIs and metrics
-- 🤝 **Network & Collaboration** - Startups are built by communities
-- 💪 **Resilience** - Embrace failures as learning opportunities
-
----
-
-<div align="center">
-
-**Ready to build the future?** 🚀
-
-*Let's turn your startup idea into reality.*
-
----
-
-📧 **Email**: francescoinbusiness@gmail.com  
-🔗 **LinkedIn**: Connect with me
-
-*Last updated: June 2026 | Status: Open to Co-Founder & Startup Opportunities*
-
-</div>
+<sub>To succeed in something, go where it's being done.</sub>

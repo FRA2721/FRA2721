@@ -1,26 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" fill="none" role="img" aria-label="Francesco Cimino — Full-Stack AI Web Developer, Startup Builder">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" fill="none" role="img" aria-label="Francesco Cimino, full stack AI web developer and startup builder">
 <style>
-@font-face{font-family:'JostL';font-style:normal;font-weight:200;src:url(data:font/woff2;base64,d09GMgABAAAAAARcAA4AAAAAB/wAAAQGAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFURABkEQgKhgCEaAE2AiQDMAsaAAQgBYN2ByAMBxtUBlFUUHZQ/DjIyXhNU9xTU1OL0xZOssODv+J/8Dyv93Xue/mjZGSWK41Zql263G470SXkTPn3tjPp7Pe+4N1YbNMBvrtKtdCUoZDd/RYgBgyB9f/fO/5ReAUaUyQK8TbGeI2xqONRgIFlnYD61ti0pvi0hAIPQDO3xioQYuRE5jGHzR7iq5shgAUAKATBRDCUOxdwgFqq6gCMf7qRFgT5IdJC3/6bAieIMv1k/F8CdsuY8+7lyhwBoigEwQUF+FFAHDXW2zcsQP9tH5IwBAMvAiCaC4BGUBIOgACgAA340Qjgx2AKgBcvGohSzcjCLlbitzFlBijhs/Yj+6R9wj5uH7UP2QcQhAgy/I0+gGABEAR8wX2QMgDAgD2CgVYUvdIJwy3GECRw8fJbNSC31j3Eaqz3rzcH+szGwMY59++by+7eTZZj99yW3iFg9l3EkfuVsqGFVH3vnukulqOiVFuDYTpagZxo+webzZa+gSZzzBiF7hFHsJPZMaZZNwrInHuKabHGdLPhtCT1293olF/Y8NfGrR9j3K64dinh0r1TLA/OnwxOXHcrBgfzO6/ezd/7hnxWvwVvuSsmbvetjlD7nOKTbpTV4wZcEumIz85D86MJKby4ABN1h3lWSoP2DlF6Hn8AoYQKgdUOjcwZ60ZP89EKUkYT0QIoSY1J7amWsxtjjN70G/wGlGxxYjjxpBiSD7/ZI/H6BrsBq6Vu7syrK8Xh5xA+1qvioPK6M3D2C94WOPUFxGXnovnJpPTMiSQ4n5sDF5I1Mx32Rwt4NhQMZuZ2iR3OTnFWLohAJBhQSFanw0ATwZzgg+m3ifbftNxyg99EdagySUKHTFZFMsmqjlxvKmdp0nR6Tar6H6YO4HzaPxQnpwq1LGsEFmGksaP1UZ++GhD7I1vhMur5euLw5s+7KEiXCmOpLBuf+VZVjXn22Olco1ifmORSOLksJAUAVD4E0HtPJ6WPW9vqU/bNReuXgNtz8HYAPH+YHYxlv9FK3QROKAAE/pxVF3mYWC0Q5Aew5CskDdQAnmormeNGbTfVes+MLaJgnqpdk8w+qO23bAJY5DIAEGSSyVI0YrgCmwCwBRc2sRUe7GJr0pxgGwR5y3YQksFyIqgIMQFLCtgav2rYYVgya7tw3KQDo1p12jUoV6pME0yOrEyizMBUcX6cWo0OMkUDyFcoVghJtWalKzNIg8YDkvRhsqpjOgqZMvUq59tSswIcnWpV4+pXo0ixRk0aNEeiAQWqABtpV6ct3O8tdDo+QbFSzarkayCUoVC2LKX6NWEo9TdjJ7UpCfOnKF6hU7laNbDgxuLCqYq35jdrWyScz2UQuyZIVfkLJayNjPw2NwCwt8ghtQfEXrDDWAEA) format('woff2');}
-@font-face{font-family:'JostR';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAWkAA4AAAAACrAAAAVMAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSAB0EQgKinSIKAE2AiQDXAswAAQgBYNiByAMBxtACFGUL06X5CMxjoWcVGhC0hiEgUXjNR6+1kDf37sAMDvWTDo6E8VkgRRQCWRrs8Pn6b9sGTtAXaURKZwxcwpl7ejm7/ahk08yBp4+ID9a+9VdPFoo5pFQSJROKe/OB93D53/PiEqERomEJGYVukZKIyReNj2IcyNNMMWxfr6ZQHVAEkJDoUxt44wKpGNpMWBatZlYSRj1NeUL77JlJ5MnWrtd9vxxlLJn7AEExIt0Fq23osrop34k2rft2WTrhlRuqXdAMUKpvgIpKsUZ/MHJaG8Buo3SIQx5VYzTSqtfU1uh1FoPE8mpoDB1TuSMRY7JVtIo/5v5p/xnfpof50f5YX6Q7+VVIM3/DZGzWgiNQE+0IQ6QugJKHnZoUioEE5tmtqUuBlftkQRHwHC+ihUr1w6Bt4YbijzD3L0rl9UX+Vb3D6uNrKI02yhYdD1l2eQkRE5MeHuXU40K+W+dOwScF5+KCu6zKGnvTbWMdNLqyDMGdF6mlj5tkoHzmba0tRDaacDCuwuHKRVWqAqaxANOsT4T9Y3qFXqZaKl0xSpq4aga680UixWH3XkP3Ms273LbuBE4t6mpzszS3I3uXzX/qMZmziE6ltVS6urslZfONLP0L6rcpxbzZPjj26m3Jw5D5JOk7dalSGy/un7J6L1b1GN/qHRm/Bin4IRqUX2Vi/PZI3+/a9XkgMnIdU3ehN27rakhUHhjHMF9bb7y4dt8MApUdZHzXBo5AJG7i6NPrn3UGavNWPe3L7LL/BFHFtqPjFu/d4C1HR2FDckisSBPpGqgFh49ex5pZhfUifnJ4iJ2VahoiDeU1E6WJbDsSDyHSMXTxRnCxP99yR2AbCyXDfaIxcLyyFLuaPtxK1UtH03DdenjGk1/NK4bTZOrrdTj7aOl3PJIoRiPlg0B7ZmzVWeHz1g2Y7WbCAIw3tqypWpLrj5FjFD1+fkAAHVz53uAMT2qj+l72NSomhu+cA8was9Gs208lDcHNWe0QzBbnttB5HdxpdyONjTYAfRnvAJZi1XZloBs1CJDfVKVuleakpYCWK3qg+G1GlXaOK4jM34rZwYCAUlpSwBwIZIDmmtsTdWuQiqLiosqi5FVaBZpFhY0paqgsUK+A7hb87GG+F0za5D2VaziIPF21mOttUpZ/j7iSSmnRYbq+NlMVfSVJDmXn4gULZ66KmE+jE3KyGas6rglY8C5JZXM7Nx6rqgsjZ9SvOnfuhFJ0gkevzQ/i1mcrAVe9qOOKsdR9BxQnJlIS8A+YskZGVjyxwQsbaJqQqbGlEo1JpsA8s3PY9/5CHD+5APqHeopFzxo4VF8i9FoHCTZG9rsb9DgCADfuKm8CZo+hoGG4Z+iHyI1N2pYC4zKPwSKm895+3svrqqV93/lovgT3u9tMwDw+wdBpAr5S/E0LaKiBIJPVBVfBUkqbCA0120U/xHdSRdUSD3NTvt0TpfGnGq2nWf7TmW6uOwVHj2FSWR7wdfGozvGW1XTdkoNr/hK09uo5V0guvv+shrpp1wnNOdVc0whyiq4DOaEyi7nJDVdyyl09ySn1Ni/ORU0jTK7osbRskRQPQYuq6TlRXNb/NjXtVA1ZirVpt2ATgQrm24J+urdc2vzWWlum6pNl51n66RtzcyMHI/RMyYbT50if4LOOoipneEcvVr/JoTodj0MuNZp04Jni1YmZmV/px5FIpAcvOQMHdDOjLd5HYNQubmdVQ8HvU4iPQ3SR2/DtgozDROvwokdW1kJ/mrmCxAhodbI0Z2fWhhjfjKS96THNoJR+QVJHzW4airKm/TV+07kg1fKkwAAAA==) format('woff2');}
-.name{font-family:'JostL','Jost','Futura','Century Gothic','Avenir Next',sans-serif;font-weight:200;font-size:68px;letter-spacing:13px;fill:#0D1117}
-.sub{font-family:'JostR','Jost','Futura','Century Gothic','Avenir Next',sans-serif;font-weight:400;font-size:16px;letter-spacing:6.5px;fill:#57606A}
-.meta{font-family:'JostR','Jost','Futura','Century Gothic','Avenir Next',sans-serif;font-weight:400;font-size:14px;letter-spacing:4px;fill:#8C959F}
+.name{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:200;font-size:70px;letter-spacing:12px;fill:#0D1117}
+.sub{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:15px;letter-spacing:6.5px;fill:#57606A}
+.meta{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:13px;letter-spacing:4px;fill:#8C959F}
 .rule{stroke:#D0D7DE;stroke-width:1}
-.mark{stroke:#0D1117;stroke-width:1.4;fill:none;stroke-linecap:round}
-.up{animation:up .95s cubic-bezier(.16,.84,.26,1)}
-@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
-.d1{animation-delay:.10s}.d2{animation-delay:.70s}.d3{animation-delay:.90s}
-.draw{animation:draw 1.8s cubic-bezier(.16,.84,.26,1) .25s}
+.mark{stroke:#0D1117;stroke-width:1.4;fill:none;stroke-linecap:round;opacity:.9}
+.up{animation:up 1s cubic-bezier(.16,.84,.26,1)}
+@keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+.d2{animation-delay:.55s}.d3{animation-delay:.75s}
+.draw{animation:draw 1.9s cubic-bezier(.16,.84,.26,1) .2s}
 @keyframes draw{from{stroke-dasharray:1200;stroke-dashoffset:1200}to{stroke-dasharray:1200;stroke-dashoffset:0}}
-.mark{opacity:.9}
-.trace{animation:trace 9s cubic-bezier(.45,0,.55,1) 1.1s infinite}
+.trace{animation:trace 10s cubic-bezier(.45,0,.55,1) 1s infinite}
 @keyframes trace{from{stroke-dasharray:62 199;stroke-dashoffset:62}to{stroke-dasharray:62 199;stroke-dashoffset:-199}}
 </style>
-<text class="name up d1" x="0" y="86">FRANCESCO CIMINO</text>
-<line class="rule draw" x1="0" y1="124" x2="1200" y2="124"/>
-<text class="sub up d2" x="2" y="162">FULL-STACK AI WEB DEVELOPER · STARTUP BUILDER</text>
-<text class="meta up d3" x="1198" y="162" text-anchor="end">COSENZA · IT</text>
-<g transform="translate(1104 62) scale(1.2)">
+<text class="name up" x="0" y="88">FRANCESCO CIMINO</text>
+<line class="rule draw" x1="0" y1="126" x2="1200" y2="126"/>
+<text class="sub up d2" x="2" y="164">FULL STACK AI WEB DEVELOPER &#183; STARTUP BUILDER</text>
+<text class="meta up d3" x="1198" y="164" text-anchor="end">COSENZA &#183; IT</text>
+<g transform="translate(1108 64) scale(1.15)">
 <path class="mark trace" d="M0,0 C0,-21 31,-21 31,0 C31,21 62,21 62,0 C62,-21 31,-21 31,0 C31,21 0,21 0,0 Z"/>
 </g>
 </svg>

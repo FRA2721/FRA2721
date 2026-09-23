@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="01 NOW">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="01 WORK">
 <style>
-@font-face{font-family:'JostS';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAMYAA4AAAAABgAAAALAAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSABEEQgKgliCOQE2AiQDGAsOAAQgBYNiByAMBxvdBACOlG7KOx6et4v33Dez66/k24qAGmpld0aVWdz2QyqPmDQqierZhtiOiRWXAn3BA/7vKSKhIG5qo1LBQ29pBTCCAcocJX28dMBHC5BFNxlqdgI46tSMoq8JNAFJCCUhT73jWiXS5WkjYsleJbZzoq0dHDYeduJgnjHShnz4/5cR/ZU4BREQb6Qn0FMSQlVCWwl9pVMOHDwxcNiJu46MrkKurQwpKnEt6QlkQopuIEBChrYygbZyI1FVlTDKCllRYKTlyAXFB8X9xR0CQIii0AqhDJqoYCfiRkAOCMk/odq6bb1t6/Ip+cl5o3RSact5H3/cuOLDD537wQf1yz/6aP25Hwo1rviY4ryPqH75B8wx27durx+2Y9sR9TtCmn1T029oSKMEiR78jg15o7R21+O1NkO+Xhesdd62FXPPOGXB0mUnL7hSKzCoumzpKdi5afnSsRfs2Hne+HLx3PEMBsljzwdGC/IQyAZPPfJ2v9f7PZp2HPLVuz0sog07/Numddg/bPHMgQMH/aeAmWkp5b9BA2cOdK6detisW0/cumyZRzx7GHaRFaOuG7Zz3Uu/TgFnosgefP7zDg//saPV1L+rWfYdvH9er9MQvvl0VCf14svsg/Q1yhIIfpNi9lWHrL5EMHw5/iKrWJm1N7CTSRtJ8ZyVKJf1nTZEjjVcLhN5DbeB9VB1m560dJ+eGeoZPdfRT3pJ58i1so7R3S9oxviZyqxSdK0Jsy/rph7L+RD3WHUarR0z2khf7WltVgb2xdBmZ1daoR4ondVZDqEWoivENNBBrD24jWeEEQ7o+LJDwbAHmpgOM6uAzW51TEQefG4EdCd6cMB8ekFGj4dA4zDKrVzDTTDKSFMcZqeY0r1IX/FaIFZPwRt0ddCMmTvatHYGvtkPCuxyo04phCa5mQgUNxjNdD4SxUX35FcBAAAA) format('woff2');}
-.n{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:15px;letter-spacing:2px;fill:#484F58}
-.l{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:21px;letter-spacing:7px;fill:#E6EDF3}
+.n{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:14px;letter-spacing:2px;fill:#484F58}
+.l{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:500;font-size:20px;letter-spacing:6.5px;fill:#E6EDF3}
 .r{stroke:#30363D;stroke-width:1}
 </style>
 <text class="n" x="0" y="30">01</text>
-<text class="l" x="46" y="30">NOW</text>
+<text class="l" x="44" y="30">WORK</text>
 <line class="r" x1="0" y1="45" x2="1200" y2="45"/>
 </svg>

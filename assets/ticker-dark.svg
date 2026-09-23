@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" fill="none" role="img" aria-label="To succeed in something, go where it is being done">
+<defs>
+<linearGradient id="fade" x1="0" x2="1">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".07" stop-color="#fff" stop-opacity="1"/>
+<stop offset=".93" stop-color="#fff" stop-opacity="1"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<mask id="m"><rect x="0" y="0" width="1200" height="40" fill="url(#fade)"/></mask>
+</defs>
+<style>
+.t{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:12.5px;letter-spacing:5.2px;fill:#7D8590}
+.o{font-size:15px;opacity:.55}
+.run{animation:run 34s linear infinite}
+@keyframes run{from{transform:translateX(0)}to{transform:translateX(-2235px)}}
+</style>
+<g mask="url(#m)"><g class="run"><text class="t" x="0" y="24">TO SUCCEED IN SOMETHING, GO WHERE IT&#8217;S BEING DONE</text><text class="t o" x="683" y="24">&#8734;</text><text class="t" x="745" y="24">TO SUCCEED IN SOMETHING, GO WHERE IT&#8217;S BEING DONE</text><text class="t o" x="1428" y="24">&#8734;</text><text class="t" x="1490" y="24">TO SUCCEED IN SOMETHING, GO WHERE IT&#8217;S BEING DONE</text><text class="t o" x="2173" y="24">&#8734;</text><text class="t" x="2235" y="24">TO SUCCEED IN SOMETHING, GO WHERE IT&#8217;S BEING DONE</text><text class="t o" x="2918" y="24">&#8734;</text><text class="t" x="2980" y="24">TO SUCCEED IN SOMETHING, GO WHERE IT&#8217;S BEING DONE</text><text class="t o" x="3663" y="24">&#8734;</text><text class="t" x="3725" y="24">TO SUCCEED IN SOMETHING, GO WHERE IT&#8217;S BEING DONE</text><text class="t o" x="4408" y="24">&#8734;</text></g></g>
+</svg>

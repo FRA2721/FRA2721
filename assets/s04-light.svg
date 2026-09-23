@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="04 STACK">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="04 ELSEWHERE">
 <style>
-@font-face{font-family:'JostS';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAPoAA4AAAAABvwAAAORAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSABcEQgKhDCDXAE2AiQDIAsSAAQgBYNiByAMBxugBVFUUDohfiZkbl5oFpkMlSqauL6sbFnhzGHxeMR/7Pfbc78YYtM1kwqZSmV+RyJDhUrIYlGl0kiEQihMf/ag1zcvyTIftKsDO8m73V0LaHTbJVTWHzFp1CdG83zDpf8BrGH/zzX1ovAONNcioyH+vzWVRQFH8tpob6DVWA02G9hGKtNtiJEFB34ppy06PU3ABIBCiAjhyoxWCKAOKwew/vaSTWE0YI7x94637YB3LjLaTv9mob1G3YAA+a4zYBGDEDEGLGDAKmZvq6aDAOPt0gYyAOFoYEFFRCtQz6CFMDEEEECBFljAIrCAEwOYIsYQcuEhFJUqGgEi8i+7xy4474SD0dECtOiVyiDEgBkwBCfgH9AGUEiuyKC21IwTuos1VHoVsxWzFLJzdTP5uho+Wz9/VC7n558+taVzMuncExMx8hRAI3kw7XjyZJ5MVszxAsWKSr6qOjtjb3TCYzmNyh7dsrolO0Sjj5+cmxd1s/fJGLBW3b1pefTpRYzU6KNiXmI8KeyE6r+rGIs8uUMdl2WNFORzL89kK5PUNs1ngBdI1x62GSZ7rfvdrdte+b444pluX1z9tRWjhWkxfZ2RkW5puuFOQy3Hqi0TY4c8iks8x5OSOkzBDcUmwh9+rGUo3ClN1y2yMzKmH8mnz2SeUXeI9W+tDWx3ikbt43DHxpiUEhdfuwT9y2axTi6mESHPT16JsntgaObla7vcejPGlvMPy7Dz9c93ck/1cLEI3fRn3WCU2XFnl/BAH7tQ82RI6o80ZDYcSTmLgcJA7SrHuBAbG9sfjnHaVYGf/MPWJsSmPENGQG3o9o6CxMQBpq217ttB/Ugzfln15VXrCP7AxhlzAPsgaN18DV8I1ilWDvgqZtkXwM+BaS8Af7+uuhA032q5noMuBhC44KG6ThAIOro+0X6+CHGMSZfZlCdSygJWeUhaOfSKpiHQ507aGbZsZA6L2hLABbgaEdulMZQc0lgOLmgcHW80Ab1wqpBOjGwImIhXi4gqTAYhNuwwQ0iThFptfodeq3Mh3LgMURMZIKlM46xOV78Uh9VAES0a6p4GOjh6OItko2beZXOKOXNWrU867Ma5yq1mnloLSTldDjchwBI3kU7pb6N4mwcN5/KM0rpNmEPEiTdXLvzVupj8kzs53RuyR+IVdYBuvdWC0NZGlq6pXxZNXHDupCdkB/wZs8AAzabcWPZ9/k+OWwQAAA==) format('woff2');}
-.n{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:15px;letter-spacing:2px;fill:#AFB8C1}
-.l{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:21px;letter-spacing:7px;fill:#1F2328}
+.n{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:14px;letter-spacing:2px;fill:#AFB8C1}
+.l{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:500;font-size:20px;letter-spacing:6.5px;fill:#1F2328}
 .r{stroke:#D0D7DE;stroke-width:1}
 </style>
 <text class="n" x="0" y="30">04</text>
-<text class="l" x="46" y="30">STACK</text>
+<text class="l" x="44" y="30">ELSEWHERE</text>
 <line class="r" x1="0" y1="45" x2="1200" y2="45"/>
 </svg>

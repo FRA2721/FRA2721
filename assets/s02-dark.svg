@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="02 WORK">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" fill="none" role="img" aria-label="02 ABROAD">
 <style>
-@font-face{font-family:'JostS';font-style:normal;font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAO4AA4AAAAABsgAAANgAAO1wwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYGYD9TVEFUSABcEQgKhASDRAE2AiQDHAsQAAQgBYNiByAMBxuEBQAuCmxj6tANkWMYnfBoqKMs1i/tIJ63+3fO3f2mQ20AVlCbMi3gSniIgGHbUNfhGv28Llf0jcz+B4AdyPPV7f29Rc2whG4m8MyzAAMOMNDLQs5uq6azSagWYVMkxqCQckM/SlX08e/o4+lCYhSDUAyqVNuakF1YkCjpsM3GSbLf2Dy9rEVXQ4AzAFCEsCX0ipQN2EBdqh+AptmLHAjxZlqLocZMhJOk6+vUfysj+jPIHAACkFcdBcIpQthTwJsC0dQ5dtxMAYw5fKIEI3TeNKBiJxtAPYBGqIQAIAAU0IA3jQBvunoAV/YUW+kyNVEZ3AVyH/5vZrLfHrtsS85GcpfPjb2THQBX4AQ2Ai8BAB0AKIpGKNK27t667uvo7R42VHeycRk12mnM2IHLrFan1WYzS00mx1UWS+9Ss9nstNpqtcoyi8XiuMpkMg3s7zRgAKhbzJ3iTkYckdkv0AFThgwa4mgMHTzBsZ/q/ovuveB2d+vVmePkIs59J1K+ax7D6SWOcfbYNpbuPBnfduRoz1Gv5IaiaUbJjNQ6/sFt1Qvm1DW3zK6LqY0D8ZbmOajs39qcvWLosGW55fDSXIMBxuzlACS0LAdblgv93nvGz363g6M9R2Ma16dUh01ISpoQ9U9Z37S+enxm6ZDyitLBY2j1eo4fvBxzPuaQGup572rYChsylGsv8RuT0lgeH5/ww0F9JSnxR0J8eXxld7FRsWnmoJaWHXGzwVfC+28vu/doZZaRGx5QM6grtrB+TGnO1KaenIjm228n3CcqyC9YMQ4AFkOAdp9JLsnsN9St+Kv9tBcA15dFzAPAs5sZATiuZ1L3AVsKgOBPDmufwsimA2IZb5cvpTbahy/xlU67OlL9+E8U4E2AnWgaAGGznKxCI+0AbAYowt5mRXG1W9EkO6no/L1RbARGl235J9RMwDm5TXa9IhJc01VuFoJjWpG1OrtBLpWZQJnS93i47qwxxhq1xnq83cBZIRbm4hXmOJ5pazSaKd64SZPOSJImzVi5arNZgDFSq8YyNCKx0WQwd6QcVOWNtPJdJ8Y+PYSzww2x1KziG4hS5cmQrohhQihSt6GHu2YJJh3xCbrlWg3Yt7puWVf8zUjZyTeWCxkn/JqvgQHgf2Vacg/Kf9fXAgAAAA==) format('woff2');}
-.n{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:15px;letter-spacing:2px;fill:#484F58}
-.l{font-family:'JostS','Jost','Futura','Century Gothic',sans-serif;font-weight:400;font-size:21px;letter-spacing:7px;fill:#E6EDF3}
+.n{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:400;font-size:14px;letter-spacing:2px;fill:#484F58}
+.l{font-family:'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif;font-weight:500;font-size:20px;letter-spacing:6.5px;fill:#E6EDF3}
 .r{stroke:#30363D;stroke-width:1}
 </style>
 <text class="n" x="0" y="30">02</text>
-<text class="l" x="46" y="30">WORK</text>
+<text class="l" x="44" y="30">ABROAD</text>
 <line class="r" x1="0" y1="45" x2="1200" y2="45"/>
 </svg>
